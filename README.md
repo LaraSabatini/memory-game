@@ -1,4 +1,4 @@
-# Memotest
+# Memory game
 
 # Content
 Este es un memotest creado con el objetivo de educar sobre la eficiencia energética y el consumo responsable, especialmente dirigido a niños.
